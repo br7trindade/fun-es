@@ -49,16 +49,25 @@
 
 
 
-function calculomedia(n1,n2){
-    return (n1 + n2) / 2 
-}
+// function calculomedia(n1,n2){
+//     return (n1 + n2) / 2 
+// }
 
-const prompt = require("prompt-sync")()
+// const prompt = require("prompt-sync")()
 
 
-nota = prompt("digite a primeira nota")
-nota2 = prompt("digite a segunda nota")
+// nota = prompt("digite a primeira nota")
+// nota2 = prompt("digite a segunda nota")
 
-media = calculomedia(nota,nota2)
+// media = calculomedia(nota,nota2)
 
-console.log("a media do aluno foi: " , media)
+// console.log("a media do aluno foi: " , media)
+
+// function mercado(produto,preco,imposto){
+//     return preço + imposto
+// }
+
+// const prompt = require("prompt-sync")()
+
+// produto = prompt("Digite o produto")
+// preço = prompt("Digite o preço")
